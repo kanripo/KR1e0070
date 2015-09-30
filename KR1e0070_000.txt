@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋屬辭
-#+DATE: 2015-09-23 09:40:05
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:15:26.345263
+#+PROPERTY: ID KR1e0070
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0070_WYG_000-1a>¶
 欽定四庫全書　　　　　經部五¶
 　春秋屬辭　　　　　　　春秋類¶
@@ -51,6 +53,7 @@
 　　　　不可揜焉乾隆四十六年十一月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1e0070_WYG_000-4a>¶
 春秋屬辭原序¶
 春秋古史記也夏商周皆有焉至吾孔子則因魯國之¶
@@ -177,6 +180,7 @@
 　¶
 　¶
 　春秋屬辭原序¶
+#+PROPERTY: JUAN 目録
 <pb:KR1e0070_WYG_000-11a>¶
 欽定四庫全書¶
 　春秋屬辭目録¶
@@ -699,4 +703,3 @@
 　¶
 　¶
 　春秋屬辭目録¶
-
